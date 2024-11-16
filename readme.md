@@ -2,7 +2,7 @@
 <p>A simple Python script to test your internet speed using the <code>speedtest</code> library.</p>
 <h2>Table of Contents</h2>
 <a href="#about">About</a>
-<br>cle
+<br>
 <a href="#features">Features</a>
 <br>
 <a href="#installation">Installation</a>
